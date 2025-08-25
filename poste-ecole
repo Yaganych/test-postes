@@ -1,0 +1,4 @@
+cd chemin/vers/ton/dossier
+    mkdir poste-ecole
+    cd poste-ecole
+    git clone https://github.com/TON-UTILISATEUR/test-postes.git
