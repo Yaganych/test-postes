@@ -1,0 +1,4 @@
+cd ..
+mkdir poste-maison
+cd poste-maison
+git clone https://github.com/TON-UTILISATEUR/test-postes.git
